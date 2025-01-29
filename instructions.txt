@@ -1,3 +1,3 @@
-instructions for deploying this site
+instructions for deploying this site to the server
 ------------------------------------
 lorem ipsom solum sirit kaskam visdani gulam
